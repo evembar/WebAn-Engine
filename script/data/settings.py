@@ -1,0 +1,2 @@
+fullscreen = False
+music = True
