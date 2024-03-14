@@ -7,5 +7,5 @@
 1.для этого надо иметь Python 3 не старше 3.8
 
 2. установленые пакеты: tkinter(для GNU/Linux), ffpyplayer, pygame, customtkinter
-3. 
+
 Запуск происходит через файл main.py
