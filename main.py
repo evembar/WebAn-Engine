@@ -27,7 +27,7 @@ des.resizable(False, False)
 mixer.init()
 randint_mus = randint(1,2)
 if randint_mus == 1:
-	mixer.music.load('music/explorers.wav')
+	mixer.music.load('music/explorers.mp3')
 	music_autor = "    Hinkik - Explorers(chiptune remix)"
 if randint_mus == 2:
 	mixer.music.load('music/embers.mp3')
